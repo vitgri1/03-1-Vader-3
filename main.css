@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+main{
+    margin: 0;
+    width: 600px;
+    margin-left: calc(50% - 300px);
+    background-color: aquamarine;
+}
